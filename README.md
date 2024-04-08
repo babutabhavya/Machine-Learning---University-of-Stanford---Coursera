@@ -1,1 +1,1 @@
-# Machine-Learning---University-of-Stanford---Coursera
+# Machine Learning (University of Stanford) Coursera
